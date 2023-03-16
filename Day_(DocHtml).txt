@@ -1,0 +1,157 @@
+<!Doctype html>
+<html>
+<head>
+<title>StudentManagementSystem</title>
+</head>
+<body>
+<h1>Welcome to Edubridge Learner</h1>
+</body>
+</html>
+==============
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h1 style="text-align:center">EdubridgeLearner</h1>
+<p style="background-color:cyan">Listen to the EduBridge Learners who are inspiring everyone to learn and have transformed their careers after learning with us.</p>
+</body>
+</html>
+Pooja Panhale  to  Everyone 12:20
+Done
+Gayathri M 12:26
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h1 style="text-align:center"><ins>EdubridgeLearner</ins></h1>
+<p style="background-color:cyan;border:10px solid black">Listen to the EduBridge Learners who are inspiring everyone to learn and have transformed their careers after learning with us.
+This Privacy Policy applies to all information that EduBridge Learning Private Limited and its affiliates located worldwide (hereinafter referred to as “EduBridge”) collect through www.edubridgeindia.com and other websites, online features, applications, products and services that post a link of this Privacy Policy (hereinafter referred to as the “Sites”) in order to demonstrate its firm commitment to privacy.</p>
+</body>
+</html>
+======================
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h1 style="text-align:center"><ins>EdubridgeLearner</ins></h1>
+<h2>Demo</h2>
+<h3>Demo</h3>
+<h4>Demo</h4>
+<h5>Demo</h5>
+<h6>Demo</h6>
+<p style="background-color:cyan;border:10px solid black">Listen to the EduBridge Learners who are inspiring everyone to learn and have transformed their careers after learning with us.
+This Privacy Policy applies to all information that EduBridge Learning Private Limited and its affiliates located worldwide (hereinafter referred to as “EduBridge”) collect through www.edubridgeindia.com and other websites, online features, applications, products and services that post a link of this Privacy Policy (hereinafter referred to as the “Sites”) in order to demonstrate its firm commitment to privacy.</p>
+</body>
+</html>
+=================================
+<a href="http://www.google.com">click</a>
+==============
+formating elements
+<p><b>This is my new data</b></p>
+<p><q>This</q> is <ins>my</ins> new <mark>data</mark></p>
+<p><i>This is my new data</i></p>
+<p><del>This is my new data</del></p>
+<p>co <sub>2</sub></p>
+<p>pi*r<sup>2</sup>
+=========================
+unordered 
+---------
+<ul >
+<h2><ins>courses</ins></h2>
+<li>java</li>
+<li>c++</li>
+<li>python</li>
+</ul>
+=====
+<ol>
+<h2><ins>Refreshment</ins></h2>
+<li>Tea</li>
+<li>coffee</li>
+<li>milk</li>
+</ol>
+===========
+<ul style="list-style-type: circle">
+<h2><ins>courses</ins></h2>
+<li>java</li>
+<li>c++</li>
+<li>python</li>
+</ul>
+================
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1
+{
+color:white;
+background-color:black;
+text-align:center;
+}
+div
+{
+float:left;
+width:585px;
+height:285px;
+border:10px solid black;
+padding:20px;
+margin:10px;
+}
+ul
+{
+float:left;
+color:blue;
+
+width:300px;
+height:150px;
+}
+img
+{
+margin-top:-346px;
+float:right;
+}
+.test
+{
+width:100%;
+height:100px;
+border:10px solid black;
+padding:20px;
+margin:10px;
+clear:both;
+font-size:20px;
+text-align:center;
+}
+</style>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>EdubridgeLearnerPortal</h1>
+<div>
+<p>Learn & Earn is our way to support you by finding you the right course, get you the financial help through a No-cost EMI option and then also help pay back some of the cost till you complete your course! We want you to learn without any financial burden.
+
+While we are focused on making YOU a master of the latest & in-demand industry skills with our co-created courses by top recruiters, we will give you an Assured Scholarship of Rs.24,000/-* for 4 months* after your enroll with us and then we also place you in the best suitable JOB!</p>
+
+<ul>
+<h2><ins>Courses</ins></h2>
+<li>java</li>
+<li>c++</li>
+<li>python</li>
+</ul>
+</div>
+<img src="1.png" width="846" height="330">
+<div class="test">
+<p>www.edubridge.com</p>
+</div>
+</body>
+</html>
